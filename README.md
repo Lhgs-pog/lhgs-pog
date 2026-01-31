@@ -1,23 +1,8 @@
 ## Olá! Eu sou o Lucas Henrique 👋
 
-Sou Desenvolvedor Backend especializado em Java e Spring Framework, apaixonado por tecnologia, inovação e desenvolvimento de soluções que fazem a diferença. Atualmente, curso Análise e Desenvolvimento de Sistemas e aplico na prática meus conhecimentos na criação de sistemas robustos, APIs escaláveis, integrações inteligentes e aplicaações com inteligência artificial.
+Desenvolvedor Backend especializado em Java e Spring Framework, apaixonado por inovação e soluções que integram Inteligência Artificial. Graduado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Software, combino sólida base acadêmica com experiência prática em projetos end-to-end.
 
-Tenho experiência em projetos end-to-end, com domínio em Java, Spring Boot, PostgreSQL, APIs RESTful e serviços em nuvem. Me destaco pela capacidade de transformar desafios complexos em soluções eficientes e seguras, como nos projetos CyberBytes, RosaIA e IA Assistente, que unem desenvolvimento backend e inteligência artificial.
-
-Sou movido por aprendizado contínuo, trabalho colaborativo e pela entrega de resultados de alta qualidade, sempre alinhados às necessidades do negócio e dos usuários.
-
-
-
-<!--STATUS-->
-### Estastísticas
-<div>
-  <a href="https://github.com/lhgs-pog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhgs-pog&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhgs-pog&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-  <!--<img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lhgs-pog&theme=vue-dark&hide_border=true"/>-->
-</div>
-
- ##
+Atuei como líder técnico em projetos desafiadores como o CyberBytes e o Lu Boutique App, onde fui responsável pela arquitetura de APIs RESTful, modelagem de dados e integrações complexas. Tenho domínio em Java, Spring Boot, PostgreSQL e Python, aplicando esses conhecimentos para criar sistemas robustos e seguros. Destaco-me pela capacidade de unir desenvolvimento backend com IA, exemplificado nos projetos IA Assistente e RosalA, entregando resultados de alta qualidade alinhados às necessidades do negócio.
 
 <!--DEVICONS-->
 ### Tecnologias
